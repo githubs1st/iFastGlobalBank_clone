@@ -94,6 +94,11 @@ footer .icons i {
 footer .icons i:hover {
   background-color: #3fe5d2;
 }
+footer .div_text {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 700;
+}
 
 .swiper {
   width: 100%;
